@@ -44,4 +44,9 @@ RAW JSON
 
 ```
 
-Удаление
+___Удаление___
+
+RAW JSON
+
+http://127.0.0.1:8000/api/tasks/3/ - DELETE
+
